@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "845074902717",
+    "project_id": "wifigames-prod",
+    "storage_bucket": "wifigames-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845074902717:android:4ef649c1720844031011d4",
+        "android_client_info": {
+          "package_name": "com.justinjose.wifigames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845074902717-ls6q05bscu82abo1j02klnl986obrvub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1H2vhLTDJULnXdrzBwM2DISPFZYALBpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845074902717-ls6q05bscu82abo1j02klnl986obrvub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
